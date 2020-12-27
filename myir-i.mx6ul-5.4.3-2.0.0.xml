@@ -31,7 +31,7 @@
 
   <project remote="Timesys" revision="ef776166d7a4f7c8677137adbfd6adee6a0e2389" name="meta-timesys" path="sources/meta-timesys" />
 
-  <project remote="MYiR-DEV" revision="ace7094ee804a8ae82e8a6b27e101491a183055f" name="meta-myir-imx" path="sources/meta-myir" upstream="i.MX6UL-5.4-zeus" >
+  <project remote="MYiR-DEV" revision="23afd11a8f9ff90934f004b3fb6711775b429e79" name="meta-myir-imx" path="sources/meta-myir" upstream="i.MX6UL-5.4-gps" >
      <linkfile src="tools/myir-setup-release.sh" dest="myir-setup-release.sh"/>
      <linkfile src="README" dest="README-IMXBSP"/>
   </project>
